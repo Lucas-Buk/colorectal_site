@@ -13,3 +13,4 @@ ipython
 ipykernel
 shap
 optuna
+sphinx_rtd_theme
