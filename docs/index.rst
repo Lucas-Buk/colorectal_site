@@ -1,5 +1,5 @@
-Documentação do estudo com pacientes de câncer colorretal
-=========================================================
+Documentação - Estudo Colorretal
+================================
 
 Autores
 -------
@@ -13,7 +13,7 @@ Autores
 * Victor Wünsch Filho - Fundação Oncocentro de São Paulo e Faculdade de Saúde Pública da Universidade de São Paulo
 
 Introdução
-------------
+-----------
 
 A seguir está apresentada a documentação do estudo de pacientes com câncer colorretal desenvolvido pelo Núcleo de Sistemas Eletrônicos Embarcados do Intituto Mauá de Tecnologia, em parceria com a FOSP (Fundação Oncocentro de São Paulo), Faculdade de Saúde Pública da USP (Universidade de São Paulo) e A.C. Camargo Cancer Center.
 
@@ -50,9 +50,10 @@ A imagem abaixo mostra as seleções feitas no conjunto de dados, chegando no n�
     :height: 400px
     :alt: alternate text
 
-
 |
-Os códigos completos estão disponíveis em `Github <https://github.com/Lucas-Buk/colorectal>`_.
+.. note:: O artigo oriundo deste estudo foi publicado na **Scientific Reports** da **Nature**, podendo ser lido na íntegra `aqui <https://www.nature.com/articles/s41598-023-35649-9>`_.  
+
+Os códigos completos estão disponíveis no `Github <https://github.com/Lucas-Buk/colorectal>`_.
 
 .. toctree::
    :maxdepth: 1
